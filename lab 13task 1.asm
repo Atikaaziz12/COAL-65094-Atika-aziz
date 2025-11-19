@@ -2,7 +2,7 @@
 .model small
 .stack 100h
 .data
-msg DB 'My name is Aiza Gul.$'
+msg DB 'My name is Atika aziz.$'
 .code
 
 main proc
@@ -24,3 +24,4 @@ introduce proc
 introduce endp
 
 end main
+
